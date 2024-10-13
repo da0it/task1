@@ -1,1 +1,2 @@
 Файл 3 для практического задания №1
+New changes in file3 on dev branch
