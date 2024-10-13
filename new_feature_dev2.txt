@@ -1,0 +1,2 @@
+New feature in dev2 branch
+Новая строка с небольшими изменениями в new_feature_dev2
