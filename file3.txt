@@ -1,3 +1,4 @@
 Файл 3 для практического задания №1
 New changes in file3 on dev branch
 Changes to file3 on dev branch
+Update in dev3 branch
