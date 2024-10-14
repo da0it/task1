@@ -2,3 +2,4 @@
 Изменения в файле file1.txt от person2
 One another update in dev2 branch (3rd)
 Changes in file2.txt from person2 in dev2 branch
+Other change for merge conflict in file1 from person2 on dev2 branch
