@@ -1,4 +1,4 @@
 for merge conflict from person1 in dev1
 Файл 1 для практического задания №1
 Новая строка в файле file1
-Changes in file1 from person1 on dev1 branch
+Решение конфликта
