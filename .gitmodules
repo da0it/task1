@@ -1,0 +1,4 @@
+
+[submodule "task1_submodule"]
+	path = task1_submodule
+	url = https://github.com/da0it/task1_submodule
